@@ -1,0 +1,92 @@
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\bin\x64\Debug\18010011035.exe.config
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\bin\x64\Debug\18010011035.exe
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\bin\x64\Debug\18010011035.pdb
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form1.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Properties.Resources.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\18010011035.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\18010011035.exe
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\18010011035.pdb
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\18010011035.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form2.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form3.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form4.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form5.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form10.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form11.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form12.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form13.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form6.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form7.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form8.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\x64\Debug\_18010011035.Form9.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.exe.config
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.exe
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.pdb
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form1.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form10.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form11.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form12.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form13.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form2.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form3.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form4.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form5.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form6.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form7.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form8.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form9.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Properties.Resources.resources
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.exe
+C:\Users\asus\Desktop\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.pdb
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.exe.config
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.exe
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.pdb
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form1.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form10.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form11.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form12.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form13.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form2.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form3.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form4.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form5.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form6.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form7.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form8.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form9.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Properties.Resources.resources
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.exe
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.pdb
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.exe.manifest
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.application
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.exe.manifest
+C:\Users\asus\Desktop\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.application
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.exe.config
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.exe.manifest
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.application
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.exe
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\bin\x64\Debug\18010011035.pdb
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.csprojAssemblyReference.cache
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form1.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form10.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form11.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form12.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form13.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form2.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form3.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form4.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form5.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form6.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form7.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form8.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Form9.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\_18010011035.Properties.Resources.resources
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.csproj.GenerateResource.cache
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.exe.manifest
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.application
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.exe
+E:\2 .sınıf 2.dönem\c#_final\18010011035\18010011035\obj\x64\Debug\18010011035.pdb

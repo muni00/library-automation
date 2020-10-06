@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\bin\Debug\18010011035.exe.config
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\bin\Debug\18010011035.exe
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\bin\Debug\18010011035.pdb
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\Debug\18010011035.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\Debug\_18010011035.Form1.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\Debug\_18010011035.Properties.Resources.resources
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\Debug\18010011035.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\Debug\18010011035.exe
+C:\Users\asus\Desktop\projelerim\18010011035\18010011035\obj\Debug\18010011035.pdb

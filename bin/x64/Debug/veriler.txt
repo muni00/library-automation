@@ -1,0 +1,3 @@
+ad,yad,ysoyad,y_e,sayfa,tür
+hayvan çiftiği,george,orwel,can,110,fabl
+fırtına,julıe,cross,pegasus,300,fantastik
